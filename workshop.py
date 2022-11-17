@@ -20,13 +20,7 @@ elif sonucNotu>=80 and sonucNotu<=100:
 else:
     print("gecersiz ifade")
 
-vizeler = ["vize1", "vize2", "vize3"]
-finaller = ["final1", "final2", "final3"]
 
-print(vizeler)
-print(vizeler[0])
-
-print(vize)
 
 
 
